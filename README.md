@@ -2,6 +2,8 @@
 
 感谢所有对项目进行捐助支持的朋友们～
 
+<a href="javascript:;" alt="微信"><img src="weixin.png" height="250" width="250"></a>or<a href="javascript:;" alt="支付宝"><img src="zhifubao.png" height="250" width="250"></a>
+
 下面是捐助名单（按时间顺序）：
 
 | 捐助时间 | 捐助者 | 捐助内容 |
